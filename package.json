@@ -1,0 +1,17 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "loadash": "^1.0.0",
+    "loadsh": "0.0.4"
+  }
+}
